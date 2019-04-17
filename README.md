@@ -2,4 +2,4 @@
 
 ## mpdemo
 
-这是一个集成了springboot + mybatis-plus + spring task + swagger2 的demo
+这是一个集成了springboot + mybatis-plus + spring task + swagger2 + maven 的demo
